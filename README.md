@@ -1,4 +1,7 @@
-### Olá, eu sou o Jeremias 👋
+### Welcome to my Dashboard👋
+<div>
+  <img align="left" alt="Jeremias-avatar" height="178" style="border-radius:50px;"      src="https://media.discordapp.net/attachments/833556923508326420/960003040419647488/xavatar-2.gif">
+  </div>
 
 <div align="center">
   <a href="https://github.com/JeremiasAlgonz">
@@ -19,7 +22,7 @@
     ➖
   <img align="center" alt="Jeremias-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <!--<img align="center" alt="Jeremias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <img align="right" alt="" height="150" style="border-radius:50px;"      src="">
+  
 </div>
   
   ##
