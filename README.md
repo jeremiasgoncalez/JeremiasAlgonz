@@ -1,4 +1,4 @@
-### Welcome to my Dashboard👋
+### Welcome to my git profile 👋
 
 <div align="center">
   <a href="https://github.com/JeremiasAlgonz">
