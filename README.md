@@ -25,7 +25,11 @@
   ##
   
   <div align="center">
+    <div>
+  <img align="center" alt="Jeremias-avatar" height="150" style="border-radius:50px;"      src="https://media.discordapp.net/attachments/833556923508326420/960003040419647488/xavatar-2.gif">
+  </div>
     
+  ##
   <a href="https://instagram.com/jeremias0fficial" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/aNmWTEJegs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jeremiasgoncalez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
