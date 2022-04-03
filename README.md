@@ -1,7 +1,4 @@
 ### Welcome to my Dashboard👋
-<div>
-  <img align="left" alt="Jeremias-avatar" height="150" style="border-radius:50px;"      src="https://media.discordapp.net/attachments/833556923508326420/960003040419647488/xavatar-2.gif">
-  </div>
 
 <div align="center">
   <a href="https://github.com/JeremiasAlgonz">
