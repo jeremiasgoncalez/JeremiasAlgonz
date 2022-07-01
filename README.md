@@ -16,6 +16,8 @@
   <img align="center" alt="Jeremias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     ➖
   <img align="center" alt="Jeremias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Jeremias-JS" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/721/premium/721791.png?token=exp=1656694316~hmac=fd5ade9909141908b2329822ee93d266">
     ➖
   <img align="center" alt="Jeremias-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <!--<img align="center" alt="Jeremias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
