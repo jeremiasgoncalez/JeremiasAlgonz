@@ -32,7 +32,7 @@
   
   <div align="center">
     <div>
-  <img align="center" alt="Jeremias-avatar" height="150" style="border-radius:50px;"      src="https://media.discordapp.net/attachments/833556923508326420/960003040419647488/xavatar-2.gif">
+  <img align="center" alt="Jeremias-avatar" height="150" style="border-radius:50px;"      src="https://i.imgur.com/Z6aOaKR.gif">
   </div>
     
   ##
